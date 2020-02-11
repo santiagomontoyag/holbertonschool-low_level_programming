@@ -6,11 +6,6 @@
 */
 int main(void)
 {
-    print_alphabet();
-    return (0);
-}
-int main(void)
-{
 	_putchar('H');
 	_putchar('o');
 	_putchar('l');
